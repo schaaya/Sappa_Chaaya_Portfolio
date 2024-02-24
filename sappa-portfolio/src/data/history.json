@@ -5,13 +5,7 @@
     "startDate": "May, 2020",
     "endDate": "Aug, 2022",
     "experiences": [
-        "Contributed to the agile development of a scalable backend system leveraging Java and Spring Boot, overseeing the creation of 20+ RESTful APIs to enable seamless connectivity between smart home devices and applications.",
-        "Implemented APIs for managing diverse smart home functionalities (e.g., lighting, climate, security, appliance control) using the Command design pattern to handle hundreds of requests per minute, ensuring real-time responsiveness and scalability.",
-        "Implemented OAuth and JWT protocols to securely authenticate API requests, employing algorithms like HMAC for data integrity and encryption, safeguarding over 10,000 user sessions and sensitive data.",
-        "Integrated diverse telecom devices into backend systems using MQTT for efficient communication and the Observer pattern for real-time event notification within the smart home network.",
-        "Implemented query optimization techniques such as query rewriting and index tuning in PostgreSQL to enhance performance and scalability for relational data management tailored for 1 million smart home devices.",
-        "Collaborated cross-functionally with telecom partners to integrate third-party APIs and services, ensuring interoperability and enhancing the overall value proposition.",
-        "Integrated unit and integration testing into Azure CI/CD pipelines, ensuring code quality and reliability, reducing production issues by 50%."
+      "Through adept navigation of technical challenges, I've developed a resilient backend system for our smart home application. Leveraging Java with Spring Boot, I seamlessly integrated MQTT for device communication and RESTful APIs for frontend interaction. Encapsulating MQTT logic ensured modularity, while robust security measures, including OAuth 2.0 or JWT, managed authentication amidst heavy API and MQTT traffic. Database optimization techniques bolstered performance, while fault-tolerant design patterns ensured reliability in the face of failures. With proactive monitoring, I've delivered a scalable and secure smart home platform, poised for sustained innovation in the IoT landscape."
       ],
     "imageSrc": "history/jio.png"
   },
@@ -21,9 +15,7 @@
     "startDate": "Jun, 2018",
     "endDate": "Aug, 2018",
     "experiences": [
-      "Led collaborative development of monolithic Reverse Auction Web APP, optimizing backend with Java, SQL, and JSON, resulting in enhanced performance and scalability.",
-      "Achieved 30% faster response times (averaging 200ms) and 4-fold increase in user engagement by streamlining bidding process using priority queue data structure.",
-      "Contributed to comprehensive testing using JUnit and Mockito, resulting in 20% increase in code coverage and enhanced code quality."
+      "During my internship, I led the optimization of a monolithic Reverse Auction Web Application's backend infrastructure using Java, SQL, and JSON. I fine-tuned database operations, implemented efficient SQL queries and indexing strategies, and integrated a priority queue data structure for bid management. These efforts significantly improved application responsiveness and user engagement. Additionally, I conducted comprehensive testing using JUnit and Mockito to ensure code quality and reliability. Through this experience, I gained valuable insights into database optimization techniques and their impact on real-world application performance."
     ],
     "imageSrc": "history/rinl.png"
   }
