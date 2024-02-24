@@ -5,17 +5,14 @@
     "startDate": "May, 2020",
     "endDate": "Aug, 2022",
     "experiences": [
-      "Directed backend development for JioHome Smart Home Solution, resulting in a 20% increase in user adoption.",
-      "Resolved 300+ production issues, reducing support overhead by 30% and boosting customer retention.",
-      "Managed 10,000 daily API requests, ensuring seamless integration and smooth operation.",
-      "Developed 20 APIs, improving device communication and leveraging Azure Monitor for optimization.",
-      "Created 3 scalable solutions, leading to a 30% performance improvement.",
-      "Led agile migration of 40+ databases to Azure SQL Database with minimal disruption.",
-      "Automated ETL processes, accelerating data tasks.",
-      "Engineered vectorized execution engine, speeding up query execution.",
-      "Implemented unit test cases, covering 90% of codebase and saving 80 hours per cycle.",
-      "Executed end-to-end development, driving 2x acceleration in feature velocity and enhancing time-to-market efficiency."
-    ],
+        "Contributed to the agile development of a scalable backend system leveraging Java and Spring Boot, overseeing the creation of 20+ RESTful APIs to enable seamless connectivity between smart home devices and applications.",
+        "Implemented APIs for managing diverse smart home functionalities (e.g., lighting, climate, security, appliance control) using the Command design pattern to handle hundreds of requests per minute, ensuring real-time responsiveness and scalability.",
+        "Implemented OAuth and JWT protocols to securely authenticate API requests, employing algorithms like HMAC for data integrity and encryption, safeguarding over 10,000 user sessions and sensitive data.",
+        "Integrated diverse telecom devices into backend systems using MQTT for efficient communication and the Observer pattern for real-time event notification within the smart home network.",
+        "Implemented query optimization techniques such as query rewriting and index tuning in PostgreSQL to enhance performance and scalability for relational data management tailored for 1 million smart home devices.",
+        "Collaborated cross-functionally with telecom partners to integrate third-party APIs and services, ensuring interoperability and enhancing the overall value proposition.",
+        "Integrated unit and integration testing into Azure CI/CD pipelines, ensuring code quality and reliability, reducing production issues by 50%."
+      ],
     "imageSrc": "history/jio.png"
   },
   {
@@ -24,9 +21,9 @@
     "startDate": "Jun, 2018",
     "endDate": "Aug, 2018",
     "experiences": [
-      "Led collaborative development of a Java-based Reverse Auction Web APP, optimizing the backend with Spring Boot, SQL, and JSON, resulting in enhanced performance and scalability.",
-      "Achieved a 30% improvement in response times (averaging 200ms) and streamlined the bidding process, leading to a 4-fold increase in user engagement.",
-      "Contributed to comprehensive testing using JUnit and Mockito, resulting in a 20% increase in code coverage and enhanced code quality."
+      "Led collaborative development of monolithic Reverse Auction Web APP, optimizing backend with Java, SQL, and JSON, resulting in enhanced performance and scalability.",
+      "Achieved 30% faster response times (averaging 200ms) and 4-fold increase in user engagement by streamlining bidding process using priority queue data structure.",
+      "Contributed to comprehensive testing using JUnit and Mockito, resulting in 20% increase in code coverage and enhanced code quality."
     ],
     "imageSrc": "history/rinl.png"
   }
