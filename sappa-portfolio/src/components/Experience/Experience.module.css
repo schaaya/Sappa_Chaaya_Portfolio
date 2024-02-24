@@ -118,4 +118,16 @@
     width: 100%;
     gap: 9px;
   }
+
+  .historyItemDetails h3 {
+    font-size: 20px; /* Adjust as needed */
+  }
+
+  .historyItemDetails p {
+    font-size: 16px; /* Adjust as needed */
+  }
+
+  .historyItemDetails ul {
+    font-size: 18px; /* Adjust as needed */
+  }
 }

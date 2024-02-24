@@ -5,7 +5,7 @@
     "startDate": "May, 2020",
     "endDate": "Aug, 2022",
     "experiences": [
-      "Through adept navigation of technical challenges, I've developed a resilient backend system for our smart home application. Leveraging Java with Spring Boot, I seamlessly integrated MQTT for device communication and RESTful APIs for frontend interaction. Encapsulating MQTT logic ensured modularity, while robust security measures, including OAuth 2.0 or JWT, managed authentication amidst heavy API and MQTT traffic. Database optimization techniques bolstered performance, while fault-tolerant design patterns ensured reliability in the face of failures. With proactive monitoring, I've delivered a scalable and secure smart home platform, poised for sustained innovation in the IoT landscape."
+      "Through adept navigation of technical challenges, I've developed a resilient backend system for the smart home application. Leveraging Java with Spring Boot, I seamlessly integrated MQTT for device communication and RESTful APIs for frontend interaction. Encapsulating MQTT logic ensured modularity, while robust security measures, including OAuth 2.0 or JWT, managed authentication amidst heavy API and MQTT traffic. Database optimization techniques bolstered performance, while fault-tolerant design patterns ensured reliability in the face of failures. With proactive monitoring, I've delivered a scalable and secure smart home platform, poised for sustained innovation in the IoT landscape."
       ],
     "imageSrc": "history/jio.png"
   },
