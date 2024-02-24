@@ -1,0 +1,33 @@
+[
+  {
+    "title": "DearBud Chatbot",
+    "imageSrc": "projects/chatbot.jpeg",
+    "description": "A Mental Health Chatbot designed to support mental well-being through friendly conversations and insightful guidance",
+    "skills": ["React.js", "DialogFlow CX", "Vertex AI", "Cloud Storage", "Cloud Functions"],
+    "demo": "https://www.example.com",
+    "source": "https://main--taupe-mooncake-4c2106.netlify.app/"
+  },
+  {
+    "title": "Instagram Clone Web APP ",
+    "imageSrc": "projects/insta.jpg",
+    "description": "A personalized Instagram clone with optimized user data access and streamlined content navigation.",
+    "skills": ["Java", "Spring Boot", "React.js", "MySQL", "Firebase" , "Vercel"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/schaaya/instagram-clone-backend"
+  },
+  {
+    "title": "P2P Payment Service",
+    "imageSrc": "projects/p2p.png",
+    "description": "A scalable Peer-to-Peer payment platform for secure transactions and data integrity.",
+    "skills": ["Java", "Spring Boot", "MySQL", "Hibernate", "JPA", "Docker"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/schaaya/Payment-Service"
+  }, {
+    "title": "Rate Limiter",
+    "imageSrc": "projects/ratelimiter.jpg",
+    "description": " A Rate Limiter developed from scratch, integrating Token Bucket, Fixed Counter, and Fixed Window algorithms with multithreading for precise resource management in distributed systems.",
+    "skills": ["Java", "Spring Boot", "MySQL", "Hibernate", "JPA", "Docker"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/schaaya/Rate-Limiter"
+  }
+]
