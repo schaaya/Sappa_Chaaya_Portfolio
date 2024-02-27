@@ -5,9 +5,28 @@
     "startDate": "May, 2020",
     "endDate": "Aug, 2022",
     "experiences": [
-      "Through adept navigation of technical challenges, I've developed a resilient backend system for the smart home application. Leveraging Java with Spring Boot, I seamlessly integrated MQTT for device communication and RESTful APIs for frontend interaction. Encapsulating MQTT logic ensured modularity, while robust security measures, including OAuth 2.0 or JWT, managed authentication amidst heavy API and MQTT traffic. Database optimization techniques bolstered performance, while fault-tolerant design patterns ensured reliability in the face of failures. With proactive monitoring, I've delivered a scalable and secure smart home platform, poised for sustained innovation in the IoT landscape."
-      ],
+      "Developed 20+ RESTful APIs in Java, Spring Boot, and Hibernate for seamless smart home IoT connectivity.",
+      "Secured API requests with OAuth, JWT, and HMAC, protecting over 1k+ user sessions and sensitive data.",
+      "Migrated over 10,000 lines of legacy code to Git and integrated with Bitbucket, improving version control and collaboration.",
+      "Resolved 300+ production and deployment issues through root cause identification and efficient debugging.",
+      "Deployed Redis caching, reducing API response times by 50% with TTL-based expiration and cache-aside techniques.",
+      "Automated smart home ETL pipeline with Apache NiFi, optimizing SQL data and saving 15 hours weekly.",
+      "Optimized PostgreSQL queries, enhancing performance and scalability for managing relational data from 1M+ devices.",
+      "Prioritized and delivered 30+ enhancements aligned with business objectives through stakeholder collaboration.",
+      "Integrated unit and integration testing into Azure CI/CD pipelines, reducing production issues by 50%."
+  ],
     "imageSrc": "history/jio.png"
+  },
+  {
+    "role": "Machine Learning Intern",
+    "organisation": "ITC",
+    "startDate": "May, 2019",
+    "endDate": "Jul, 2019",
+    "experiences": [
+      "Created an application using Python, PyTorch, CNN, and Flask to predict paper pulp ISO brightness, addressing 500+ data accuracy challenges.",
+      "Delivered a robust solution enabling the organization to produce quality paper within seconds, reducing manual labor by 6 hours."
+  ],
+    "imageSrc": "history/itc.png"
   },
   {
     "role": "Software Development Intern",
@@ -15,8 +34,10 @@
     "startDate": "Jun, 2018",
     "endDate": "Aug, 2018",
     "experiences": [
-      "During my internship, I led the optimization of a monolithic Reverse Auction Web Application's backend infrastructure using Java, SQL, and JSON. I fine-tuned database operations, implemented efficient SQL queries and indexing strategies, and integrated a priority queue data structure for bid management. These efforts significantly improved application responsiveness and user engagement. Additionally, I conducted comprehensive testing using JUnit and Mockito to ensure code quality and reliability. Through this experience, I gained valuable insights into database optimization techniques and their impact on real-world application performance."
-    ],
+      "Enhanced the price estimator tool interface for a reverse auction project, offering transparent cost breakdowns across 20+ data services.",
+      "Overhauled workflow management tools through a new database system to increase task accountability and communication.",
+      "Refactored 1000+ lines of code and documented two large-scale projects, improving future readability and understanding."
+  ],
     "imageSrc": "history/rinl.png"
   }
 ]

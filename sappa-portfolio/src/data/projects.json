@@ -29,5 +29,19 @@
     "skills": ["Java", "Spring Boot", "MySQL", "Hibernate", "JPA", "Docker"],
     "demo": "https://www.example.com",
     "source": "https://github.com/schaaya/Rate-Limiter"
+  }, {
+    "title": "TinyURL",
+    "imageSrc": "projects/tinyurl.jpg",
+    "description": "A custom TinyURL generation system from scratch, implementing efficient algorithms and data structures to generate shortened URLs, resulting in streamlined link sharing and improved user experience.",
+    "skills": ["Java", "Spring Boot","ThymeLeaf","Redis","MySQL", "Hibernate", "JPA", "Docker"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/schaaya/Tiny-URL"
+  }, {
+    "title": "Search Engine",
+    "imageSrc": "projects/search_engine.png",
+    "description": " A Python-based search engine tailored for engineering blogs, optimizing content retrieval for enhanced knowledge accessibility among professionals.",
+    "skills": ["Java", "Spring Boot", "MySQL", "Hibernate", "JPA", "Docker"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/schaaya/Search-Engine"
   }
 ]
