@@ -5,15 +5,15 @@
     "startDate": "May, 2020",
     "endDate": "Aug, 2022",
     "experiences": [
-      "Developed 20+ RESTful APIs in Java, Spring Boot, and Hibernate for seamless smart home IoT connectivity.",
-      "Secured API requests with OAuth, JWT, and HMAC, protecting over 1k+ user sessions and sensitive data.",
-      "Migrated over 10,000 lines of legacy code to Git and integrated with Bitbucket, improving version control and collaboration.",
-      "Resolved 300+ production and deployment issues through root cause identification and efficient debugging.",
-      "Deployed Redis caching, reducing API response times by 50% with TTL-based expiration and cache-aside techniques.",
-      "Automated smart home ETL pipeline with Apache NiFi, optimizing SQL data and saving 15 hours weekly.",
-      "Optimized PostgreSQL queries, enhancing performance and scalability for managing relational data from 1M+ devices.",
-      "Prioritized and delivered 30+ enhancements aligned with business objectives through stakeholder collaboration.",
-      "Integrated unit and integration testing into Azure CI/CD pipelines, reducing production issues by 50%."
+        "Developed 20+ RESTful APIs in Java, Spring Boot, and Hibernate for seamless smart home IoT connectivity.",
+        "Secured API requests with OAuth, JWT, and HMAC, protecting over 1k+ user sessions and sensitive data.",
+        "Automated real-time ETL pipeline in Java with Spark for 10,000+ IoT data points, utilizing Spark SQL and DataFrame API for intricate transformations, and seamless integration with HDFS (Hadoop File System) for optimized storage, enhancing operational efficiency.",
+        "Implemented custom Java MapReduce jobs for efficient processing and analysis of large-scale smart home energy usage datasets in HDFS, enhancing performance and resource utilization.",
+        "Enhanced PostgreSQL performance and scalability for 1M+ device metadata by implementing optimization techniques like indexing, query planning, and database tuning.",
+        "Prioritized and delivered 30+ enhancements aligned with business objectives through stakeholder collaboration.",
+        "Resolved 300+ production and deployment issues through root cause identification and efficient debugging.",
+        "Integrated unit and integration testing into Azure CI/CD pipelines, reducing production issues by 50%."
+      
   ],
     "imageSrc": "history/jio.png"
   },
